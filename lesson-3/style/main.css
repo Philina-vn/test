@@ -1,0 +1,29 @@
+h1{
+    color: #212121;
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top:107px ;
+    
+}
+.container{
+    width: 1400px;
+    height: 590px;
+    margin:0;
+}
+hr{
+    width: 64px;
+    height: 2px;
+    background-color: #ff8b38;
+    border: none;
+}
+span{
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    font-size: 14px;
+    width: 359px;
+    height: 14px;
+    margin: 0px 520px 0px 520px;
+    align: center;
+}
